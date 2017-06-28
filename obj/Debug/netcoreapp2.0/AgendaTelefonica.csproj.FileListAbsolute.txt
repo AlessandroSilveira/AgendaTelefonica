@@ -1,0 +1,12 @@
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\AgendaTelefonica.deps.json
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\AgendaTelefonica.runtimeconfig.json
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\AgendaTelefonica.runtimeconfig.dev.json
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\AgendaTelefonica.dll
+C:\source\AgendaTelefonica\bin\Debug\netcoreapp2.0\AgendaTelefonica.pdb
+C:\source\AgendaTelefonica\obj\Debug\netcoreapp2.0\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\source\AgendaTelefonica\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\source\AgendaTelefonica\obj\Debug\netcoreapp2.0\AgendaTelefonica.AssemblyInfo.cs
+C:\source\AgendaTelefonica\obj\Debug\netcoreapp2.0\AgendaTelefonica.dll
+C:\source\AgendaTelefonica\obj\Debug\netcoreapp2.0\AgendaTelefonica.pdb
